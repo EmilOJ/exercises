@@ -8,5 +8,5 @@ Fantastic book with clear explanations, interesting examples and seems to always
 
 Obviously missing some newer features like Go1.13 error handling but most content is still valid.
 
-![Book Cover](/cover.png)
+![Book Cover](./cover.png)
 
