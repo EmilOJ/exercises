@@ -6,5 +6,5 @@ Pages: 576pp
 
 Head first comprehensive book on C++ for proficient programmers.
 
-![Book Cover](./cover.png)
+![Book Cover](./cover.jpg)
 
