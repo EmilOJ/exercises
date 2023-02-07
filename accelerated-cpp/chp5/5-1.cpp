@@ -1,9 +1,6 @@
 //
 // Created by emil on 2/7/23.
 //
-//
-// Created by emil on 2/6/23.
-//
 
 #include <vector>
 #include <list>
