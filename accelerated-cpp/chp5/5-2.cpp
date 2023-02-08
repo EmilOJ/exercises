@@ -10,7 +10,7 @@
 #include <iomanip>
 
 
-int ex41() {
+int ex52() {
   std::vector<Student_info> students;
   Student_info record;
   std::string::size_type maxlen = 0;
