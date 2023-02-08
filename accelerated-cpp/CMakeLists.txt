@@ -6,9 +6,8 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(
         accelerated_cpp
         main.cpp
-        chp4/Student_info.cpp
-        chp4/grade.cpp
-        chp4/grade.h
-        chp4/median.cpp
-        chp4/4-1.cpp
-)
+        chp5/Student_info.cpp
+        chp5/grade.cpp
+        chp5/grade.h
+        chp5/median.cpp
+        chp5/5-2.cpp)
