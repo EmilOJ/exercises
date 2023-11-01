@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "say-hello",
+					"jsonFile" : "directory-say-hello-Debug-c62639b5eae327981885.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "say-hello",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "hello-exe",
+					"jsonFile" : "directory-hello-exe-Debug-95b4e3c1e05a8d24d36d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "hello-exe",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "hello_world",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "ActualyProgram::@2fd522105322d56da9ab",
+					"jsonFile" : "target-ActualyProgram-Debug-a45326d4c1e84e48b3ac.json",
+					"name" : "ActualyProgram",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "say-hello::@5c20bfcd32ac02acf58a",
+					"jsonFile" : "target-say-hello-Debug-e5118fd89fed40867648.json",
+					"name" : "say-hello",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/emil/dev/exercises/cmake/hello_world/build",
+		"source" : "/home/emil/dev/exercises/cmake/hello_world"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

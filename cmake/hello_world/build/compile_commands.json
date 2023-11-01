@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/emil/dev/exercises/cmake/hello_world/build",
+  "command": "/usr/bin/g++ -I/home/emil/dev/exercises/cmake/hello_world/say-hello/src -g -o say-hello/CMakeFiles/say-hello.dir/src/say-hello/hello.cpp.o -c /home/emil/dev/exercises/cmake/hello_world/say-hello/src/say-hello/hello.cpp",
+  "file": "/home/emil/dev/exercises/cmake/hello_world/say-hello/src/say-hello/hello.cpp",
+  "output": "say-hello/CMakeFiles/say-hello.dir/src/say-hello/hello.cpp.o"
+},
+{
+  "directory": "/home/emil/dev/exercises/cmake/hello_world/build",
+  "command": "/usr/bin/g++ -I/home/emil/dev/exercises/cmake/hello_world/say-hello/src -g -o hello-exe/CMakeFiles/ActualyProgram.dir/main.cpp.o -c /home/emil/dev/exercises/cmake/hello_world/hello-exe/main.cpp",
+  "file": "/home/emil/dev/exercises/cmake/hello_world/hello-exe/main.cpp",
+  "output": "hello-exe/CMakeFiles/ActualyProgram.dir/main.cpp.o"
+}
+]

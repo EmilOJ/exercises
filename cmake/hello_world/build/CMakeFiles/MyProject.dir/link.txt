@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyProject.dir/main.cpp.o -o MyProject  -Wl,-rpath,/home/emil/dev/exercises/cmake/hello_world/build libsay-hello.so 

@@ -1,0 +1,8 @@
+/home/emil/dev/exercises/cmake/hello_world/build/CMakeFiles/edit_cache.dir
+/home/emil/dev/exercises/cmake/hello_world/build/CMakeFiles/rebuild_cache.dir
+/home/emil/dev/exercises/cmake/hello_world/build/say-hello/CMakeFiles/say-hello.dir
+/home/emil/dev/exercises/cmake/hello_world/build/say-hello/CMakeFiles/edit_cache.dir
+/home/emil/dev/exercises/cmake/hello_world/build/say-hello/CMakeFiles/rebuild_cache.dir
+/home/emil/dev/exercises/cmake/hello_world/build/hello-exe/CMakeFiles/ActualyProgram.dir
+/home/emil/dev/exercises/cmake/hello_world/build/hello-exe/CMakeFiles/edit_cache.dir
+/home/emil/dev/exercises/cmake/hello_world/build/hello-exe/CMakeFiles/rebuild_cache.dir
